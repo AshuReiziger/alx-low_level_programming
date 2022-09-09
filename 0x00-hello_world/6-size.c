@@ -4,8 +4,9 @@
 * main - print the string in the put function
 *
 * Description: using the main function
-*This program prints "programming is like building a multilingual puzzle
-* return: 0
+* This program prints programming is like building a multilingual puzzle
+*
+* Return: 0
 */
 
 int main(void)
@@ -15,6 +16,7 @@ int main(void)
 	long li;
 	long long lli;
 	float f;
+
 	printf("size of a char: %d byte(s)\n", sizeof(c));
 	printf("size of an int: %d byte(s)\n", sizeof(i));
 	printf("size of a long int: %d bytes(s)\n", sizeof(li));
