@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 /**
-*main-print the string in the puts function
-*Description: write a C program that prints exactly
-*Programming is like building a multilingual puzzle
+* main - print the string in the puts function
+*
+* Description: write a C program that prints exactly
+* Programming is like building a multilingual puzzle
+*
+* Return: 0
 */
 
 int main(void)
