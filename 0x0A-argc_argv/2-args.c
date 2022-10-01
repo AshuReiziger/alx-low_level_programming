@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point of application 
+ * main - Entry point of application
  * Description: prints all the arguments a program
  * receives.
  * @argc: number of arguments
